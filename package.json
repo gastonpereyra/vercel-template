@@ -1,0 +1,20 @@
+{
+  "name": "vercel-sandbox",
+  "version": "1.0.0",
+  "description": "Try Vercel and other few things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonpereyra/vercel-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonpereyra/vercel-sandbox/issues"
+  },
+  "homepage": "https://github.com/gastonpereyra/vercel-sandbox#readme"
+}
