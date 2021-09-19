@@ -16,7 +16,7 @@ This is a Template to create a Custom Service in Vercel
 
 - `{serviceName}`: For the Service Name
 - `{serviceDescription}`: For the Service Description
-- `{serviceBanner}`: For the Service Image Banner
+- `{service-Banner}`: For the Service Image Banner
 
 > :warning: If you are not me, or you do not create in my account may change my username for yours
 
