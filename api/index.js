@@ -14,7 +14,7 @@ class IndexAPI extends API {
 
 		return {
 			proyectName: '{serviceName}',
-			serviceBanner: 'https://user-images.githubusercontent.com/39351850/133937038-471eacb3-d3e7-4f49-b211-f2679ada53cd.png', // Changed To {serviceBanner}
+			serviceBanner: 'https://user-images.githubusercontent.com/39351850/133937038-471eacb3-d3e7-4f49-b211-f2679ada53cd.png', // Changed To {service-Banner}
 			githubUser: 'gastonpereyra',
 			owner: 'Gastón Pereyra',
 			year: new Date().getFullYear(),
